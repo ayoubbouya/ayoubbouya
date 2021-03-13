@@ -1,8 +1,8 @@
 ### Hi there, I'm Ayoub 👋
-<p align='left'> You can view my portfolio <a href='https://www.ayoubouya.com/' target=_blank><u>here</u>.</a></p>
-#
+
 ## I'm A Young Man, Student, Developer, and self-employed!!
 
+- <p align='left'> You can view my portfolio <a href='https://www.ayoubouya.com/' target=_blank><u>here</u>.</a></p>
 - 🌱 I’m currently learning Reactjs
 - 👯 I describe myself as a passionate Front End Developer who loves coding, open-source, and web platform.
 - 👨‍💻 I'm confident, naturally curious, and perpetually working on improving my skills.
