@@ -32,7 +32,6 @@
 
 <br />
 <br />
-<p align='left'> You can view my portfolio <a href='https://www.ayoubouya.com/' target=_blank><u>here</u>.</a> </p>
 [twitter]: https://twitter.com/AyoubBouya11
 [linkedin]: https://www.linkedin.com/in/ayoubbouya/
 [instagram]: https://www.instagram.com/ayoubouya/
