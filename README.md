@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Reactjs
 - 👯 I describe myself as a passionate Front End Developer who loves coding, open-source, and web platform.
 - 👨‍💻 I'm confident, naturally curious, and perpetually working on improving my skills.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
