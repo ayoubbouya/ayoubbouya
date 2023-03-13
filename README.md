@@ -37,7 +37,7 @@
 
 [twitter]: https://twitter.com/AyoubBouya11
 [linkedin]: https://www.linkedin.com/in/ayoubbouya/
-[instagram]: https://www.instagram.com/ayoubouya/
+[instagram]: https://www.instagram.com/ayoubbbab/
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ayoubbouya&show_icons=true&include_all_commits=true)](https://github.com/yermakovaa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbouya&layout=compact)](https://github.com/yermakovaa/github-readme-stats)
