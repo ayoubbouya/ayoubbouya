@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayoub 👋
 
-## I'm A Young Man, Developer, and self-employed!!
+## I'm A Young Man, Developer, and self-employed
 
 - <p align='left'> You can view my portfolio <a href='https://www.ayoubouya.com/' target=_blank><u>here</u>.</a></p>
 - 👯 I describe myself as a passionate Front End Developer who loves coding, open-source, and web platform.
